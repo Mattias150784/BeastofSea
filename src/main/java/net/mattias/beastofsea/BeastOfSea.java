@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 
 import java.util.stream.Collectors;
 @Mod(BeastOfSea.MOD_ID)
-public class BeastOfSea {
+public class BeastOfSea{
     public static final String MOD_ID = "beastofsea";
     private static final Logger LOGGER = LogUtils.getLogger();
     public BeastOfSea()
