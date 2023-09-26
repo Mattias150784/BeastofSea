@@ -31,4 +31,3 @@ public class BeastOfSea{
         LOGGER.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
     }
 }
-//testng rock
